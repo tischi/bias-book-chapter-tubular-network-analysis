@@ -1,6 +1,6 @@
 pagestyleempty_title.tex
 sectionOverview__sub.tex
-figures/BloodVessels/BloodVessels.png
+figures/BloodVessels
 subsectionPrerequisi.tex
 sectionMorphological.tex
 lstlisting___Initialization_.tex
@@ -22,7 +22,7 @@ sectionGraphical_use.tex
 lstlisting___Graphical_user.tex
 untitled5.tex
 section3D_results_vi.tex
-figures/Projection/Projection.png
+figures/Projection
 lstlisting___3D_results.tex
 untitled6.tex
 sectionAssignments__.tex
